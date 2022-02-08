@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7fcf431d32ebf88af3a68a5abf96466c483fb86c",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x7fcf431d32ebf88af3a68a5abf96466c483fb86c",
+  "NETWORK": {
+    "NAME": "Ethereum Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Weird Kingdom",
+  "SYMBOL": "WKD",
+  "MAX_SUPPLY": 400,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea Testnet",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/weirdkingdom",
+  "SHOW_BACKGROUND": true
+}
